@@ -1,0 +1,50 @@
+Sat Apr 15 05:56:27 PM CDT 2023
+gcc -g -o psort psort.c -Wall -Werror -pthread -O
+10+0 records in
+10+0 records out
+10000000 bytes (10 MB, 9.5 MiB) copied, 0.0293262 s, 341 MB/s
+Test 1
+Execution time: 6 milliseconds
+Execution time: 5 milliseconds
+Execution time: 4 milliseconds
+Execution time: 4 milliseconds
+Execution time: 4 milliseconds
+Execution time: 5 milliseconds
+Execution time: 5 milliseconds
+Execution time: 5 milliseconds
+100+0 records in
+100+0 records out
+100000000 bytes (100 MB, 95 MiB) copied, 0.225328 s, 444 MB/s
+Test 2
+Execution time: 72 milliseconds
+Execution time: 54 milliseconds
+Execution time: 55 milliseconds
+Execution time: 55 milliseconds
+Execution time: 57 milliseconds
+Execution time: 61 milliseconds
+Execution time: 62 milliseconds
+Execution time: 64 milliseconds
+1000+0 records in
+1000+0 records out
+1000000000 bytes (1.0 GB, 954 MiB) copied, 2.54443 s, 393 MB/s
+Test 3
+Execution time: 1022 milliseconds
+Execution time: 749 milliseconds
+Execution time: 946 milliseconds
+Execution time: 722 milliseconds
+Execution time: 729 milliseconds
+Execution time: 800 milliseconds
+Execution time: 691 milliseconds
+Execution time: 762 milliseconds
+4000+0 records in
+4000+0 records out
+4000000000 bytes (4.0 GB, 3.7 GiB) copied, 9.30864 s, 430 MB/s
+Test 4
+Execution time: 4154 milliseconds
+Execution time: 3130 milliseconds
+Execution time: 3051 milliseconds
+Execution time: 3213 milliseconds
+Execution time: 3116 milliseconds
+Execution time: 3374 milliseconds
+Execution time: 3631 milliseconds
+Execution time: 3419 milliseconds
