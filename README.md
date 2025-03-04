@@ -1,4 +1,4 @@
-## 📌 **Introduction **  
+## 📌 Introduction
 Welcome to my **Personal Side Projects Archive**! 🎨💡 This repository contains a collection of my personal projects, categorized as follows:  
 
 - **🆕 Current Year Projects (2025)** – Organized by themes and actively maintained.  
@@ -10,7 +10,7 @@ Some of the project folder might contains some starter code. This means that the
 
 ---
 
-## 📁 **Repo Structure **
+## 📁 Repo Structure
 ```
    ├── implement——algorithm/       # 🆕 2025 Projects (shallow-projects for practice, categorized by theme)
    ├── ml_model_from_scratch/  # shallow-projects for practice, categorized by theme
